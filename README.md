@@ -1,1 +1,1 @@
-# git-merge-practice
+# My git project
