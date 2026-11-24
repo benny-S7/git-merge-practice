@@ -1,1 +1,1 @@
-# My git project
+# Person A Project
